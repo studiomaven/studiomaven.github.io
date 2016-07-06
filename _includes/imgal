@@ -1,1 +1,9 @@
-<img src="{{ site.media_server }}/{{ include.srcs[0] }}">
+{% assign srcs =  include.srcs | split: "|" %}
+tryin:
+{% for src in srcs %}
+  <img src="{{ site.media_server }}/{{ src | strip }}">
+{% endfor %}
+
+
+
+

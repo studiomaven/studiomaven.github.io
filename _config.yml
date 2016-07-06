@@ -6,6 +6,8 @@ dropbox: "https://dl.dropboxusercontent.com/u/37093882/_test_folder"
 media_server: "http://gsi-tester.s3-website-us-east-1.amazonaws.com"
 ksteinfe: "hello"
 
+repository: studiomaven/studiomaven.github.io
+
 # Name of your site (displayed in the header)
 name: Studiomaven
 

@@ -17,9 +17,7 @@ the bestests
 
 here is this: {{site.ksteinfe}} this is what?
 
-![405 image]({{ site.baseurl }}/assets/405.jpg)
-
-![here is a kitten]({{ site.media_server }}/_test_folder/kitten.jpg)
+![here is a kitten]({{ site.media_server }}_test_folder/kitten.jpg)
 
 here is another:
 {% include img src="kitten.jpg" %}

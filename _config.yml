@@ -2,7 +2,7 @@
 # This file contains configuration flags to customize your site
 #
 
-media_server: "https://dl.dropboxusercontent.com/u/37093882/"
+media_server: "https://dl.dropboxusercontent.com/u/37093882"
 ksteinfe: "hello"
 
 # Name of your site (displayed in the header)

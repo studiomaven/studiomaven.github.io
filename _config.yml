@@ -2,7 +2,8 @@
 # This file contains configuration flags to customize your site
 #
 
-media_server: "https://dl.dropboxusercontent.com/u/37093882"
+dropbox: "https://dl.dropboxusercontent.com/u/37093882/_test_folder"
+media_server: "http://gsi-tester.s3-website-us-east-1.amazonaws.com"
 ksteinfe: "hello"
 
 # Name of your site (displayed in the header)

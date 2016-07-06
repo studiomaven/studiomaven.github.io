@@ -15,7 +15,7 @@ real good.
 so good.
 the bestests
 
-{{site.ksteinfe}}
+here is this: {{site.ksteinfe}} this is what?
 
 ![405 image]({{ site.baseurl }}/assets/405.jpg)
 
